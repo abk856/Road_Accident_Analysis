@@ -16,6 +16,7 @@ STEPS IN PROJECT
 11. Insights
 
 REQUIREMNT GATHERING
+
 Clients wants to create a Road Accident Dashboard for the year 2021 and 2022 so that they can have insights on the below requirements.
 
 1. Primary KPI - Total Casualties and Total accident value for the current year and YoY growth.
