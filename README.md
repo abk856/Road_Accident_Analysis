@@ -14,3 +14,14 @@ STEPS IN PROJECT
 9. Data Visualization/ Chat desing
 10. Report/Dashboard Building
 11. Insights
+
+REQUIREMNT GATHERING
+Clients wants to create a Road Accident Dashboard for the year 2021 and 2022 so that they can have insights on the below requirements.
+
+1. Primary KPI - Total Casualties and Total accident value for the current year and YoY growth.
+2. Primary KPI's - Total Casualties by Accident severity for the curret year and YoY growth.
+3. Secondary KPI's - Total Casualities with respect to vehicle type for current year.
+4. Monthly trend showing comparison of casualties for current Year and Previous year.
+5. Casualties by Road Type for current year.
+6. Current Year Casualties by Area/Location & by day/Night.
+7. Total Casualites and Total Accidents by location.
